@@ -23,6 +23,7 @@ body {
     max-width: 1200px; /* Maximum width for large screens */
     margin: 0 auto; /* Center horizontally */
     background-color: #ffffff; /* White background */
+    color: #333;
     padding: 20px; /* Padding inside the div */
     border-radius: 8px; /* Rounded corners for a softer look */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
