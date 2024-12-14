@@ -31,6 +31,7 @@ body {
 .nav {
     display: flex;
     padding: 20px; /* Padding inside the div */
+    color: #333;
     border-radius: 8px; /* Rounded corners for a softer look */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
 }
